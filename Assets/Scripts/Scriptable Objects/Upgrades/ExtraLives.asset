@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c65171f3b8d02f64bbebb2a19bae9335, type: 3}
+  m_Name: ExtraLives
+  m_EditorClassIdentifier: 
+  upgradeID: 3
+  upgradeName: Increase Max Lives
+  upgradeDescription: Increases the maximum amount of lives you have.
+  upgradeIcon: {fileID: 21300000, guid: 61e4f42838934924c97a59b2e3253f3b, type: 3}
+  upgradeLevel: 0
+  upgradePriceMoney: 15
+  upgradePricePremium: 7
+  upgradePriceMultiplier: 8
